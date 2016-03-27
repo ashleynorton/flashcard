@@ -3,6 +3,11 @@
  width: 275px;
  margin: 0 15px 15px 0;
  background-color: #3fbfbf;
+ cursor: pointer;
+}
+
+#bootstrap-overrides .block:hover {
+  background-color: #068484;
 }
 
 #bootstrap-overrides h1 {
@@ -11,4 +16,8 @@
 
 #bootstrap-overrides p {
   font-size: 16px;
+}
+
+.initially-showing {
+  display: none;
 }
