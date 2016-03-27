@@ -1,3 +1,10 @@
+#bootstrap-overrides .block {
+ height: 275px;
+ width: 275px;
+ margin: 0 15px 15px 0;
+ background-color: #3fbfbf;
+}
+
 #bootstrap-overrides h1 {
-  color: red;
+  margin-bottom: 25px;
 }
